@@ -1,0 +1,50 @@
+<b>[March 2019]</b>: I will be serving as a program committee member for <a href="https://icdar2019.org/">ICDAR 2019</a>.
+                </li>
+
+<li>
+<b>[February 2019]</b>: I will be serving as a reviewer for <a href="http://iccv2019.thecvf.com/">ICCV 2019</a>.
+                </li>
+
+<li>
+<b>[February 2019]:</b> Offered a lecture on Graph Representation Learning in Deep Learning for Computer Vision course at IISc Banglore.
+                </li>
+<li>
+<b>[January 2019]:</b> Obtained <b>research grant</b> from Siemens. Will be working as co-PI with Dr. Anirban and Dr. Partha on this project.
+                </li>
+
+
+       <li>
+<b>[January 2019]</b>: I will be serving as a program committee member for <a href="https://ijcai19.org/">IJCAI 2019</a>.
+                </li>
+
+                 <li>
+<b>[December 2018]:</b> I am attending AAAI 2019. My travel is supported by gift of USD 3000 by Google to Indian Institute of Science. Thank you Google. </b>
+                </li>
+<li>
+<b>[November 2018]:</b> I am serving as a program committee member for <a href="http://cse.iitj.ac.in/dar2018/">Workshop on Document Analysis and Recognition (DAR) 2018</a>. (to be held as part of <a href="https://cvit.iiit.ac.in/icvgip18/index.php">ICVGIP 2018</a>)</b>
+</li>
+
+<li>
+<b>[November 2018]:</b> Our work on "Knowledge-Aware Visual Question Answering" got accepted in <b> AAAI 2019 (acceptance rate = 16 %)</b>
+</li>
+
+<li>
+<b>[October 2018]:</b> My solo author paper on deep heterogeneous metric learning got accepted for publication at <br>
+  <a href="https://www.springer.com/computer/information+systems+and+applications/journal/13735">International Journal of Multimedia Information Retrieval (IJMIR)</a>. This paper addresses the problem of matching cartoon and real faces.
+</li>
+
+<li>
+<b>[September 2018]:</b> Our paper on deep metric learning got accepted at ACCV 2018. Pre-print will be available soon!
+</li>
+
+<li>
+<b>[September 2018]:</b> I will be attending <a href="https://ard.amazon-ml.com/bangalore/">Amazon Research Day</a> on September 28.
+</li>
+
+<li>
+<b>[July 2018]:</b>  I will be co-teaching an undergrad introductory course on Algorithms and Programming at IISc Bangalore. <a href="http://drona.csa.iisc.ernet.in/~gsat/Course/algoandprog/">[Link]</a>
+</li> 
+
+</ul>
+</p>
+        </td>
